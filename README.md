@@ -35,3 +35,5 @@ Omer
 Code-Along 6
 
 
+## published website
+https://tmomer-debug.github.io/Omer-Code-Along-6/
