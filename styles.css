@@ -43,6 +43,7 @@ text-decoration: underline;
 }
 
 main {
+    display: grid;
 max-width: 900px;
 min-height: 65vh;
 margin: 30px auto;
